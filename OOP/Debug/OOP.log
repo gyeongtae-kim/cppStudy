@@ -1,14 +1,14 @@
-﻿빌드 시작: 2017-10-18 오후 3:40:59
-     1>2 노드의 "D:\cpp_test\OOP\OOP.vcxproj" 프로젝트(build 대상)입니다.
+﻿빌드 시작: 2017-10-18 오후 5:05:44
+     1>2 노드의 "D:\git\OOP\OOP.vcxproj" 프로젝트(build 대상)입니다.
      1>InitializeBuildStatus:
-         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\OOP.unsuccessfulbuild"을(를) 만들고 있습니다.
+         "Debug\OOP.unsuccessfulbuild"에 연결(touching)하고 있습니다.
        ClCompile:
          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OOP.cpp
          OOP.cpp
-     1>d:\cpp_test\oop\oop.cpp(70): error C2143: 구문 오류 : ';'이(가) '->' 앞에 없습니다.
-     1>d:\cpp_test\oop\oop.cpp(70): error C2143: 구문 오류 : ';'이(가) '->' 앞에 없습니다.
-     1>"D:\cpp_test\OOP\OOP.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+     1>d:\git\oop\oop.cpp(70): error C2143: 구문 오류 : ';'이(가) '->' 앞에 없습니다.
+     1>d:\git\oop\oop.cpp(70): error C2143: 구문 오류 : ';'이(가) '->' 앞에 없습니다.
+     1>"D:\git\OOP\OOP.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
 
 빌드하지 못했습니다.
 
-경과 시간: 00:00:01.36
+경과 시간: 00:00:02.28

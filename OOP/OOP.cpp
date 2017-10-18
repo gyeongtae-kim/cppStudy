@@ -2,6 +2,8 @@
 // Banking System Ver0.2
 // author : gtkim
 // 내용 :: OOP단계별 프로젝트
+//
+// git 참고 :http://egloos.zum.com/riniblog/v/1024993
 */
 #include <iostream>
 #include <cstring>
@@ -67,7 +69,7 @@ void MakeAccount(void)
 	cout<<"[Make Account]"<<endl;
 	cout<<"Account ID: ";
 	cin>> id;
-	Account->accID= id;
+	//Account->accID= id;
 }
 void DepositMoney(void)
 {
