@@ -1,8 +1,21 @@
+<<<<<<< HEAD
+﻿빌드 시작: 2017-10-23 오전 8:53:12
+=======
 ﻿빌드 시작: 2017-10-19 오전 11:40:04
+>>>>>>> b2b5deda36d9e36e2e238fbd4d94f4d188ebd729
      1>2 노드의 "D:\git\OOP\OOP.vcxproj" 프로젝트(build 대상)입니다.
      1>InitializeBuildStatus:
          "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\OOP.unsuccessfulbuild"을(를) 만들고 있습니다.
        ClCompile:
+<<<<<<< HEAD
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+       Manifest:
+         모든 출력이 최신 상태입니다.
+=======
          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OOP.cpp
          OOP.cpp
      1>d:\git\oop\oop.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
@@ -18,6 +31,7 @@
        LinkEmbedManifest:
          모든 출력이 최신 상태입니다.
          OOP.vcxproj -> D:\git\OOP\Debug\OOP.exe
+>>>>>>> b2b5deda36d9e36e2e238fbd4d94f4d188ebd729
        FinalizeBuildStatus:
          "Debug\OOP.unsuccessfulbuild" 파일을 삭제하고 있습니다.
          "Debug\OOP.lastbuildstate"에 연결(touching)하고 있습니다.
@@ -25,4 +39,8 @@
 
 빌드했습니다.
 
+<<<<<<< HEAD
+경과 시간: 00:00:00.05
+=======
 경과 시간: 00:00:01.24
+>>>>>>> b2b5deda36d9e36e2e238fbd4d94f4d188ebd729
